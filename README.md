@@ -1,2 +1,0 @@
-researchcompendia.github.io
-===========================
