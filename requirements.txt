@@ -1,2 +1,4 @@
-nikola
+pelican
+markdown
+typogrify
 ghp-import

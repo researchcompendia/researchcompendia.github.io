@@ -1,9 +1,0 @@
-.. link: 
-.. description: obligatory hello world post
-.. tags: hello
-.. date: 2013/09/13 14:22:57
-.. title: Hello, World!
-.. slug: hello-world
-
-
-Nikola is a static blog generator that I'm trying out alongside Pelican.
