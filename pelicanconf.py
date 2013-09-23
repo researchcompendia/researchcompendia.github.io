@@ -29,3 +29,10 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 TYPOGRIFY = True
 DISQUS_SITENAME = 'researchcompendia'
+THEME = 'pelican-bootstrap3'
+BOOTSTRAP_THEME = 'united'
+
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
+GITHUB_URL = 'https://github.com/researchcompendia/researchcompendia.github.io'
+
