@@ -1,0 +1,9 @@
+Title: POST /api/v1/verification/<id>
+Note over Verification API: queries ORM for id
+Verification API->lib.verify: verify query set
+Note over lib.verify: get verification package
+lib.verify->subprocess: popen
+subprocess->subprocess: run verification
+subprocess->lib.verify: 
+lib.verify->Verification API: zipped results
+Note over Verification API: persists results to ORM, s3
